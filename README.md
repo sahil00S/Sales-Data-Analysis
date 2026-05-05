@@ -8,6 +8,9 @@ Analyze sales data to identify trends, top-performing products and regional perf
 - Pivot Table
 - Charts
 
+## Dashboard Preview
+![Dashboard](Excel-dashboard(charts).png)
+
 ## Process
 - created dataset with sales information
 - cleaned data (tried without deleting blank , fixed formats)
