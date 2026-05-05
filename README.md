@@ -9,7 +9,7 @@ Analyze sales data to identify trends, top-performing products and regional perf
 - Charts
 
 ## Dashboard Preview
-![Dashboard](Excel-dashboard(charts).png)
+![Dashboard](<img width="1152" height="534" alt="Excel dashboard (charts)" src="https://github.com/user-attachments/assets/4e1d9490-9c2f-4ce8-b66a-f748515f6e6f" />)
 
 ## Process
 - created dataset with sales information
